@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chandanaschandu
 - 👀 I’m interested in coding .
-- 🌱 I’m currently learning java and data structures .
+- 🌱 I’m currently learning Golang and Devops .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
